@@ -2,7 +2,9 @@
 	path = lead-manager-react
 	url = git@github.com:ibqn/lead-manager-react.git
 	branch = master
+	update = merge
 [submodule "lead-manager-django"]
 	path = lead-manager-django
 	url = git@github.com:ibqn/lead-manager-django.git
 	branch = master
+	update = merge
