@@ -1,6 +1,3 @@
-## react project was created with 
+## Getting started
 
-```shell
-yarn create react-app lead-manager --typescript
-yard add node-sass --save
-```
+This repository combines two projects, a frontend part written in react together with the backend part written in django.
